@@ -1,0 +1,17 @@
+D:\PBKK\ETS\ETSPBKK\bin\Debug\net6.0-windows\ETSPBKK.exe
+D:\PBKK\ETS\ETSPBKK\bin\Debug\net6.0-windows\ETSPBKK.deps.json
+D:\PBKK\ETS\ETSPBKK\bin\Debug\net6.0-windows\ETSPBKK.runtimeconfig.json
+D:\PBKK\ETS\ETSPBKK\bin\Debug\net6.0-windows\ETSPBKK.dll
+D:\PBKK\ETS\ETSPBKK\bin\Debug\net6.0-windows\ETSPBKK.pdb
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.csproj.AssemblyReference.cache
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.Form1.resources
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.csproj.GenerateResource.cache
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.AssemblyInfoInputs.cache
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.AssemblyInfo.cs
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.csproj.CoreCompileInputs.cache
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.dll
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\refint\ETSPBKK.dll
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.pdb
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ETSPBKK.genruntimeconfig.cache
+D:\PBKK\ETS\ETSPBKK\obj\Debug\net6.0-windows\ref\ETSPBKK.dll
